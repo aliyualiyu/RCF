@@ -26,7 +26,7 @@
 					
 					<div class="col-xs-6 col-md-3">
 						<div class="list-group">
-						  <a href=<?php require'links1.php';?> class="list-group-item  active">
+						  <a href=<?php require'links1.php';?> class="list-group-item inverse red">
 						    <center><h4 class="list-group-item-heading">Movie 1</h4></center>
 						    <a href=<?php require 'links1.php';?> class="thumbnail"><img src="img/redcarpetfilms.jpg" alt="..."></a></a>
 						
@@ -35,7 +35,7 @@
 					
 					<div class="col-xs-6 col-md-3">
 						<div class="list-group">
-						  <a href="films.php" class="list-group-item active">
+						  <a href="films.php" class="list-group-item inverse red">
 						    <center><h4 class="list-group-item-heading">Movie 2</h4></center>
 						    <a href="films.php" class="thumbnail "><img src="img/redcarpetfilms.jpg" alt="..."></a>
 						  </a>
@@ -44,7 +44,7 @@
 					
 					<div class="col-xs-6 col-md-3">
 						<div class="list-group">
-						  <a href="films.php" class="list-group-item active">
+						  <a href="films.php" class="list-group-item inverse red">
 						    <center><h4 class="list-group-item-heading">Movie 3</h4></center>
 						    <a href="films.php" class="thumbnail"><img src="img/redcarpetfilms.jpg" alt="..."></a>
 						  </a>
@@ -53,7 +53,7 @@
 					
 					<div class="col-xs-6 col-md-3">
 						<div class="list-group">
-						  <a href="films.php" class="list-group-item active">
+						  <a href="films.php" class="list-group-item inverse red">
 						    <center><h4 class="list-group-item-heading">Movie 4</h4></center>
 						    <a href="films.php" class="thumbnail"><img src="img/redcarpetfilms.jpg" alt="..."></a>
 						  </a>
@@ -62,7 +62,7 @@
 					
 					<div class="col-xs-6 col-md-3">
 						<div class="list-group">
-						  <a href="films.php" class="list-group-item active">
+						  <a href="films.php" class="list-group-item inverse red">
 						    <center><h4 class="list-group-item-heading">Movie 5</h4></center>
 						    <a href="films.php" class="thumbnail"><img src="img/redcarpetfilms.jpg" alt="..."></a>
 						  </a>
@@ -71,7 +71,7 @@
 					
 					<div class="col-xs-6 col-md-3">
 						<div class="list-group">
-						  <a href="films.php" class="list-group-item active">
+						  <a href="films.php" class="list-group-item inverse red">
 						    <center><h4 class="list-group-item-heading">Movie 6</h4></center>
 							<a href="films.php" class="thumbnail"><img src="img/redcarpetfilms.jpg" alt="..."></a>
 						  </a>
@@ -80,7 +80,7 @@
 					
 					<div class="col-xs-6 col-md-3">
 						<div class="list-group">
-						  <a href="films.php" class="list-group-item active">
+						  <a href="films.php" class="list-group-item inverse red">
 						    <center><h4 class="list-group-item-heading">Movie 7</h4></center>
 						    <a href="films.php" class="thumbnail"><img src="img/redcarpetfilms.jpg" alt="..."></a>
 						  </a>
@@ -89,13 +89,48 @@
 				
 					<div class="col-xs-6 col-md-3">
 						<div class="list-group">
-						  <a href="films.php" class="list-group-item active">
+						  <a href="films.php" class="list-group-item inverse red">
 						    <center><h4 class="list-group-item-heading">Movie 8</h4></center>
 						    <a href="films.php" class="thumbnail"><img src="img/redcarpetfilms.jpg" alt="..."></a>
 						  </a>
 						</div>
 					</div>
 					
+					<div class="col-xs-6 col-md-3">
+						<div class="list-group">
+						  <a href="films.php" class="list-group-item inverse red">
+						    <center><h4 class="list-group-item-heading">Movie 9</h4></center>
+						    <a href="films.php" class="thumbnail"><img src="img/redcarpetfilms.jpg" alt="..."></a>
+						  </a>
+						</div>
+					</div>
+					
+					<div class="col-xs-6 col-md-3">
+						<div class="list-group">
+						  <a href="films.php" class="list-group-item inverse red">
+						    <center><h4 class="list-group-item-heading">Movie 10</h4></center>
+							<a href="films.php" class="thumbnail"><img src="img/redcarpetfilms.jpg" alt="..."></a>
+						  </a>
+						</div>
+					</div>
+					
+					<div class="col-xs-6 col-md-3">
+						<div class="list-group">
+						  <a href="films.php" class="list-group-item inverse red">
+						    <center><h4 class="list-group-item-heading">Movie 11</h4></center>
+						    <a href="films.php" class="thumbnail"><img src="img/redcarpetfilms.jpg" alt="..."></a>
+						  </a>
+						</div>
+					</div>
+				
+					<div class="col-xs-6 col-md-3">
+						<div class="list-group">
+						  <a href="films.php" class="list-group-item inverse red">
+						    <center><h4 class="list-group-item-heading">Movie 12</h4></center>
+						    <a href="films.php" class="thumbnail"><img src="img/redcarpetfilms.jpg" alt="..."></a>
+						  </a>
+						</div>
+					</div>
 					
 				 
 				</div><!--End of the ROW Div -->

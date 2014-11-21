@@ -1,6 +1,10 @@
 		<div class="navbar navbar-default navbar-fixed-top">
 			<div class="container">
-				<a href="index.php" class="navbar-brand">Red Carpet Films</a>
+				<div>
+					<img src="img/red.png" id="logo"/>
+					<a href="index.php" class="navbar-brand">Red Carpet Films</a>
+				</div>
+				
 			
 				<button class="navbar-toggle" data-toggle ="collapse" data-target= ".navHedaerCollapse">
 					
